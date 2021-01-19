@@ -1,7 +1,9 @@
 # README
 
 <p align="center">
-<img alt='Nairobi Night Logo' src="https://github.com/muchirijane/Nairobi-Night-Color-Theme/blob/main/images/logo.png" height='100'>
+<!-- <img alt='Nairobi Night Logo' src="https://github.com/muchirijane/Nairobi-Night-Color-Theme/blob/main/images/logo.png" height='100'> -->
+  
+  ![Nairobi Night Logo](https://github.com/muchirijane/Nairobi-Night-Color-Theme/blob/main/images/logo.png)
 </p>
 
 <h1 align="center">
